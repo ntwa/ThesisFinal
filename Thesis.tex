@@ -1,0 +1,371 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Masters/Doctoral Thesis 
+% LaTeX Template
+% Version 1.43 (17/5/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original authors:
+% Steven Gunn 
+% http://users.ecs.soton.ac.uk/srg/softwaretools/document/templates/
+% and
+% Sunil Patel
+% http://www.sunilpatel.co.uk/thesis-template/
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Note:
+% Make sure to edit document variables in the Thesis.cls file
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt, oneside]{Thesis} % The default font size and one-sided printing (no margin offsets)
+
+\graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
+%\usepackage{apacite}
+\usepackage[comma, sort&compress]{natbib} % Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
+\usepackage{csquotes}
+\usepackage{ctable}
+\usepackage[english]{babel}
+\usepackage{caption}
+\captionsetup[table]{labelsep=space}
+\captionsetup[figure]{labelsep=space}
+%\usepackage{booktabs}
+%\usepackage{array}
+\usepackage{amsmath,array}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}m{#1}}
+%\usepackage{apacite}
+\usepackage{multirow}
+\usepackage{fixltx2e}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{bibentry}
+\usepackage{pdfpages}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{lipsum}
+\mdfdefinestyle{MyFrame}{%
+    linecolor=black,
+    outerlinewidth=2pt,
+    roundcorner=2pt,
+    innertopmargin=\baselineskip,
+    innerbottommargin=\baselineskip,
+    innerrightmargin=20pt,
+    innerleftmargin=20pt,
+    backgroundcolor=gray!50!white}
+\def\SPSB#1#2{\rlap{\textsuperscript{\textcolor{red}{#1}}}\SB{#2}}
+\def\SP#1{\textsuperscript{\textcolor{black}{#1}}}
+\def\SB#1{\textsubscript{\textcolor{black}{#1}}}
+\newenvironment{myquote}
+               {\list{}{\rightmargin   \leftmargin
+                         \itemsep	-1ex
+                         \parsep	0in 
+                         \parskip	0in
+                         \topsep	0pt
+                         %\partopsep 1ex
+                         %,itemsep=-1ex,partopsep=1ex
+                        }%  
+                
+                \item \relax}
+               {\endlist}
+%\newcommand{\userquote}[2]{\begin{samepage}\begin{myquote} 
+%     \em{\small{#2\begin{flushright}---#1\end{flushright}}}
+%   \end{myquote}
+%   \end{samepage}}
+   
+   \newcommand{\userquote}[2]{\begin{samepage}\begin{myquote} 
+     \em{\small{#2\begin{flushright}---#1\end{flushright}}}
+   \end{myquote}
+     \end{samepage}}
+\newcolumntype{x}[1]
+            {>{\raggedright}p{#1}}
+
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\newcommand{\tn}{\tabularnewline}
+
+\hypersetup{urlcolor=blue, colorlinks=true} % Colors hyperlinks in blue - change to black if annoying
+\title{\ttitle} % Defines the thesis title - don't touch this
+
+\begin{document}
+\bibpunct[, ]{(}{)}{;}{a}{,}{,} 
+\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+
+\setstretch{1.3} % Line spacing of 1.3
+
+% Define the page headers using the FancyHdr package and set up for one-sided printing
+\fancyhead{} % Clears all page headers and footers
+\rhead{\thepage} % Sets the right side header to show the page number
+\lhead{} % Clears the left side page header
+
+\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % New command to make the lines in the title page
+
+% PDF meta-data
+\hypersetup{pdftitle={\ttitle}}
+\hypersetup{pdfsubject=\subjectname}
+\hypersetup{pdfauthor=\authornames}
+\hypersetup{pdfkeywords=\keywordnames}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage}
+\begin{center}
+\vspace*{0.5 cm}
+\includegraphics[scale = 0.75]{Logo}\\[1.0 cm]
+\textsc{\LARGE \univname}\\[1.5cm] % University name
+\textsc{\Large Doctoral Thesis}\\[0.5cm] % Thesis type
+
+\HRule \\[0.5cm] % Horizontal line
+{\huge \bfseries \ttitle}\\[0.4cm] % Thesis title
+\HRule \\[1.5cm] % Horizontal line
+
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+{\authornames} % Author name - remove the \href bracket to remove the link
+
+%MSc. Computer Science (UDSM), BSc. Computer Science and Applied Maths (UKZN)
+MSc.(UDSM), BSc.(UKZN)
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+
+\emph{Supervisors:} \\
+{\supname} % Supervisor name - remove the \href bracket to remove the link  
+\end{flushright}
+\end{minipage}\\[3cm]
+\large \textit{A thesis submitted in fulfilment of the requirements\\ for the degree of \degreename}\\[0.3cm] % University requirement text
+\textit{in the}\\[0.4cm]
+%\groupname\\
+\deptname\\[2cm] % Research group name and department name
+{\large \today}\\[4cm] % Date
+%\includegraphics{Logo} % University/department logo - uncomment to place it
+\vfill
+\end{center}
+
+\end{titlepage}
+\clearpage
+%----------------------------------------------------------------------------------------
+%	DECLARATION PAGE
+%	Your institution may give you a different text to place here
+%----------------------------------------------------------------------------------------
+
+\Declaration{
+
+\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+
+I, \authornames, declare that this thesis, titled `\ttitle', and the work presented in it are my own. I confirm that:
+
+\begin{itemize} 
+\item[\tiny{$\blacksquare$}] This work was done wholly or mainly while in candidature for a research degree at this University.
+\item[\tiny{$\blacksquare$}] Where any part of this thesis has previously been submitted for a degree or any other qualification at this University or any other institution, this has been clearly stated.
+\item[\tiny{$\blacksquare$}] Where I have consulted the published work of others, this is always clearly attributed.
+\item[\tiny{$\blacksquare$}] Where I have quoted from the work of others, the source is always given. With the exception of such quotations, this thesis is entirely my own work.
+\item[\tiny{$\blacksquare$}] I have acknowledged all main sources of help.
+\item[\tiny{$\blacksquare$}] Where the thesis is based on work done by myself jointly with others, I have made clear exactly what was done by others and what I have contributed myself.\\
+\end{itemize}
+ 
+Signed:\\
+\rule[1em]{25em}{0.5pt} % This prints a line for the signature
+ 
+Date:\\
+\rule[1em]{25em}{0.5pt} % This prints a line to write the date
+}
+\begin{flushright}
+\end{flushright}
+%----------------------------------------------------------------------------------------
+%	ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+\clearpage % Start a new page
+
+\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+%\lhead{\emph{Abstract}} % Set the left side page header to
+\addtotoc{Abstract} % Add the "Abstract" page entry to the Contents
+
+\abstract{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+\begin{flushleft}{\huge{\textbf{Abstract}} \par}\end{flushleft}
+There is an increasing prevalence of chronic diseases that are associated with unhealthy lifestyles in both developed and developing world contexts. In order to help combat this unfavourable trend, public health researchers are advocating shifting care to the hands of citizens through utilization of personalized interventions. The objective of these initiatives is to support individuals beyond the point of care. ICTs, specifically mobile phones coupled with sophisticated persuasive mechanisms such as gamification or simple strategies such as SMS reminders, provide an ideal platform for delivery of personalized interventions that target health behaviour change.~In order to support delivery of such personalized interventions, researchers in human-computer interaction have developed an area of research referred to as personal informatics, which focuses on data collection and feedback mechanisms.~These approaches aim to support individuals to be able to quantify different aspects of their lives through self-reflection.~These systems have been developed with motivational affordances to sustain their utilization by end users.~However, such systems are developed with only one user in mind: a direct user of technology.~Such systems may not scale well in contexts involving indirect users of technology, meaning people who use technology through the facilitation of a human interface (intermediary user) situated between indirect users (beneficiaries of technology) and technology.~Therefore, there was a need to explore how motivational affordances of personal health informatics could be extended to work when an interaction requires a collaboration that leads to indirect usage, i.e.~a collaboration between the person helping and the person being helped.
+
+In order to understand design implications for indirect technology use in the context of personal health informatics, the study used several approaches to understand the social dynamics that could affect utilization of technology through a human interface between indirect users and technology.~The researcher developed prototypes of mobile self-monitoring applications for diet and physical activity and used them as the starting point for uncovering unknown issues in intermediated technology use. After evaluating these prototypes, the researcher suggested both social-technical arrangements and prerequisites that increase the likelihood of success in utilization of such interventions. 
+}
+%----------------------------------------------------------------------------------------
+%	ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+\clearpage % Start a new page
+
+\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+%\lhead{\emph{Abstract}} % Set the left side page header to
+%\addtotoc{Abstract} % Add the "Abstract" page entry to the Contents
+
+\abstract{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+One of the most important aspects of social-technical arrangement was a prior social relationship between a human interface and a beneficiary of technology through a human interface. Self-determination theory was used to understand how motivation for collaboration between users in a pair (the human interface and beneficiary user of technology) could be enhanced. Gamification, a design pattern inspired by games, was found to be the source of a significant increase in perceived competence, an aspect of self-determination theory. Therefore, gamification was found to be a catalyst for increasing collaboration between a human interface and beneficiary user of technology, provided that the two users that formed a pair had a prior social relationship. The collaborative gamified system showed promising results for the utilization of personal health informatics in the context of indirect usage. The most promising combination of a human interface and beneficiary user is the one that comprises family members, possibly a child and a parent.
+
+Despite the success of gamification in increasing perceived competence of the human interface, and hence collaboration between a human interface and beneficiary user, there are some design implications that need to be taken into consideration in order to understand how internalization of collaboration between two members of a pair working together could be improved. This entails future exploration of features that support task-mastery climate versus those that support ego-involved. Future research could also explore how different styles of parenting could affect the way the intervention is perceived by the two sets of users.
+}
+
+\clearpage
+%----------------------------------------------------------------------------------------
+%	ACKNOWLEDGEMENTS
+%----------------------------------------------------------------------------------------
+
+\setstretch{1.3} % Reset the line-spacing to 1.3 for body text (if it has changed)
+
+\acknowledgements{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+The first people to acknowledge are my research supervisors for their guidance and encouragement during my PhD journey: Dr Melissa Densmore and Prof. Ulrike Rivett.~I thank them for believing in me.~I would also like to extend my acknowledgement to the late Prof. Gary Marsden (R.I.P) who was my main supervisor before his death. Through him that is where I started to develop my passion for human-computer interaction. He was more than just a supervisor.~I would like to acknowledge his widow Gil Marsden, together with her two children, for hosting us (Gary's students) during yearly Christmas parties.
+
+I would also like to thank the HPI Research School and the Centre of Excellence, both at UCT for their generous scholarship and travel and research grants that were instrumental in the facilitation of my PhD journey. My thanks extend to Mamelani NGO in Cape Town, which played a role in the recruitment of participants for this research. In addition to Mamelani, special acknowledgement goes to Minah Radebe of Langa in Cape Town and her field worker, who were both instrumental with the recruitment of participants and the facilitation of evaluation in general.
+
+My acknowledgement extends to all my fellow students at ICT4D Lab, University of Cape Town.~Their presence in the lab made it not only an academic environment but a large social support group. Special acknowledgement goes to Christopher Chepken, Raymond Mughwanya, Grace Ssekakubo, Richard Ssembatya, Mvurya Mgala, Thomas Reitmaier, and many more whose names I have not mentioned here, but I appreciate their contribution. Special thanks goes to the ICOMMS research group of which I was a member. I would also like to acknowledge my compatriots at the University Cape Town, who made my stay in Cape Town feel like a home far from home.   
+
+I thank Craig Balfour, a system administrator at the Department of Computer Science, for his technical support with the infrastructure needed for hosting the application online. Special thanks also goes to Eve Gill, the financial administrator at the department, for being effective in processing funds whenever they were required. 
+
+Last but not least, I would like to express my gratitude to my wife (Lulu) and son (Lucas), for their patience during this challenging but rewarding journey.   
+}
+\clearpage % Start a new page
+
+%----------------------------------------------------------------------------------------
+%	LIST OF CONTENTS/FIGURES/TABLES PAGES
+%----------------------------------------------------------------------------------------
+
+\pagestyle{fancy} % The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+
+\lhead{\emph{Contents}} % Set the left side page header to "Contents"
+\tableofcontents % Write out the Table of Contents
+
+\lhead{\emph{List of Figures}} % Set the left side page header to "List of Figures"
+\listoffigures % Write out the List of Figures
+
+\lhead{\emph{List of Tables}} % Set the left side page header to "List of Tables"
+\listoftables % Write out the List of Tables
+
+%----------------------------------------------------------------------------------------
+%	ABBREVIATIONS
+%----------------------------------------------------------------------------------------
+
+\clearpage % Start a new page
+
+\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+\lhead{\emph{Abbreviations}} % Set the left side page header to "Abbreviations"
+\listofsymbols{ll} % Include a list of Abbreviations (a table of two columns)
+{
+  
+\textbf{ASHA} & \textbf{A}ccredited \textbf{S}ocial \textbf{H}ealth \textbf{A}ctivist \\
+\textbf{BBM} & \textbf{B}lack\textbf{B}erry \textbf{M}essenger \\
+\textbf{BMI} & \textbf{B}ody \textbf{M}ass \textbf{I}ndex \\
+\textbf{CHW} & \textbf{C}ommunity \textbf{H}ealth \textbf{W}orkers\\
+\textbf{GPS} & \textbf{G}lobal \textbf{P}ositioning \textbf{S}ystem\\
+\textbf{HCI} & \textbf{H}uman \textbf{C}omputer \textbf{I}nteraction\\
+\textbf{ICT} & \textbf{I}nformation and \textbf{C}ommunication \textbf{T}echnology \\
+\textbf{ICTD} & \textbf{I}nformation and \textbf{C}ommunication \textbf{T}echnology and \textbf{D}evelopment\\
+\textbf{IMI} & \textbf{I}ntrinsic \textbf{M}otivation \textbf{I}nventory\\
+\textbf{MMS} & \textbf{M}ultimedia \textbf{M}essaging \textbf{S}ervice\\
+\textbf{NEAT} & \textbf{N}on-\textbf{E}xercise \textbf{A}ctivity \textbf{T}hermogenesis\\
+\textbf{PAV} & \textbf{P}ublic-\textbf{A}ccess \textbf{V}enue \\
+\textbf{PDA} & \textbf{P}ersonal \textbf{D}igital \textbf{A}ssistant\\
+\textbf{PSD} & \textbf{P}ersuasive \textbf{S}ystem \textbf{D}esign\\
+\textbf{RCT} & \textbf{R}andomized \textbf{C}ontrolled \textbf{T}rial\\
+\textbf{SIM} & \textbf{S}ubscriber \textbf{I}dentity \textbf{M}odule \\
+\textbf{SMS} & \textbf{S}hort \textbf{M}essaging \textbf{S}ervice \\
+\textbf{USSD} & \textbf{U}nstructured \textbf{S}upplementary \textbf{S}ervice \textbf{D}ata \\
+\textbf{URL} & \textbf{U}niform \textbf{R}esource \textbf{L}ocator\\
+%\textbf{Acronym} & \textbf{W}hat (it) \textbf{S}tands \textbf{F}or \\
+}
+
+%----------------------------------------------------------------------------------------
+%	DEDICATION
+%----------------------------------------------------------------------------------------
+\clearpage % Start a new page
+\setstretch{1.3} % Return the line spacing back to 1.3
+
+\pagestyle{empty} % Page style needs to be empty for this page
+
+\dedicatory{This work is dedicated to my parents, father Prof. Andalwisye Katule and mother Mary Katule (R.I.P), and to lovely wife Lulu and lovely son Lucas.} % Dedication text
+
+
+
+
+%\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+ %----------------------------------------------------------------------------------------
+%	PUBLICATIONS
+%----------------------------------------------------------------------------------------
+\clearpage % Start a new page
+
+\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+\lhead{\emph{List of Publications}} % Set the left side page header to "Abbreviations"
+\listofpubs % Include a list of Abbreviations (a table of two columns)
+{
+\nobibliography*
+%\bibliographystyle{unsrt}
+  \section*{List of Publications}
+  \begin{enumerate}
+    \item \bibentry{katule2016leveraging}
+    \item \bibentry{katule2016family}
+  \end{enumerate}
+}
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+
+%----------------------------------------------------------------------------------------
+%	THESIS CONTENT - CHAPTERS
+%----------------------------------------------------------------------------------------
+
+\mainmatter % Begin numeric (1,2,3...) page numbering
+
+\pagestyle{fancy} % Return the page headers back to the "fancy" style
+
+% Include the chapters of the thesis as separate files from the Chapters folder
+% Uncomment the lines as you write the chapters
+\input{Chapters/Introduction}
+\input{Chapters/LiteratureReview}
+\input{Chapters/StudyContext}
+\input{Chapters/ContextEnqChapter}
+\input{Chapters/Prototype1Chapter}
+\input{Chapters/Prototype2Chapter}
+\input{Chapters/SummaEvalChapter}
+\input{Chapters/Conclusion} 
+%\input{Chapters/References} 
+\backmatter
+
+\clearpage
+\lhead{Chapter \emph{References}} % This is for the header on each page - perhaps a shortened title
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+\label{Bibliography}
+\lhead{\emph{Bibliography}} % Change the page header to say "Bibliography"
+\bibliographystyle{apalike}
+\bibliography{Bibliography} % The references (bibliography) information are stored in the file named "Bibliography.bib"
+\begin{flushright}
+\end{flushright}
+%----------------------------------------------------------------------------------------
+%	THESIS CONTENT - APPENDICES
+%----------------------------------------------------------------------------------------
+
+\appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
+
+% Include the appendices of the thesis as separate files from the Appendices folder
+% Uncomment the lines as you write the Appendices
+
+\input{Appendices/AppendixA}
+\input{Appendices/AppendixB}
+\input{Appendices/AppendixC}
+\input{Appendices/AppendixD}
+\input{Appendices/AppendixE}
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics\textbf{}
+
+
+\end{document}  

@@ -1,0 +1,1754 @@
+@article{krishna2009healthcare,
+  title={Healthcare via cell phones: a systematic review},
+  author={Krishna, Santosh and Boren, Suzanne Austin and Balas, E Andrew},
+  journal={Telemedicine and e-Health},
+  volume={15},
+  number={3},
+  pages={231-240},
+  year={2009},
+  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street 3rd Floor New Rochelle, NY 10801 USA}
+}
+
+@inproceedings{ferro2013towards,
+  title={Towards personalised, gamified systems: an investigation into game design, personality and player typologies},
+  author={Ferro, Lauren S and Walz, Steffen P and Greuter, Stefan},
+  booktitle={Proceedings of The 9th Australasian Conference on Interactive Entertainment: Matters of Life and Death},
+  pages={7},
+  year={2013},
+  organization={ACM}
+}
+@article{svetkey2015cell,
+  title={Cell phone intervention for you (CITY): A randomized, controlled trial of behavioral weight loss intervention for young adults using mobile technology},
+  author={Svetkey, Laura P and Batch, Bryan C and Lin, Pao-Hwa and Intille, Stephen S and Corsino, Leonor and Tyson, Crystal C and Bosworth, Hayden B and Grambow, Steven C and Voils, Corrine and Loria, Catherine and others},
+  journal={Obesity},
+  volume={23},
+  number={11},
+  pages={2133--2141},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+
+@inproceedings{jia2016personality,
+  title={Personality-targeted Gamification: A Survey Study on Personality Traits and Motivational Affordances},
+  author={Jia, Yuan and Xu, Bin and Karanam, Yamini and Voida, Stephen},
+  booktitle={Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},
+  pages={2001--2013},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{kaptelinin1997activity,
+  title={Activity theory: basic concepts and applications},
+  author={Kaptelinin, Victor and Nardi, Bonnie A},
+  booktitle={CHI'97 Extended Abstracts on Human Factors in Computing Systems},
+  pages={158-159},
+  year={1997},
+  organization={ACM}
+}
+
+@article{bouchard1993exercise,
+  title={Exercise and obesity},
+  author={Bouchard, Claude and Depres, Jean-Pierre and Tremblay, Angelo},
+  journal={Obesity research},
+  volume={1},
+  number={2},
+  pages={133-147},
+  year={1993},
+  publisher={Wiley Online Library}
+}
+
+@article{collins2009behavioral,
+  title={Behavioral and psychological factors in obesity},
+  author={Collins, Jennifer C and Bentz, Jon E},
+  journal={The Journal of Lancaster General Hospital},
+  volume={4},
+  number={4},
+  pages={124-127},
+  year={2009}
+}
+
+
+@article{janssen2004waist,
+  title={Waist circumference and not body mass index explains obesity-related health risk},
+  author={Janssen, Ian and Katzmarzyk, Peter T and Ross, Robert},
+  journal={The American journal of clinical nutrition},
+  volume={79},
+  number={3},
+  pages={379-384},
+  year={2004},
+  publisher={Am Soc Nutrition}
+}
+
+@article{hill1998environmental,
+  title={Environmental contributions to the obesity epidemic},
+  author={Hill, James O and Peters, John C},
+  journal={Science},
+  volume={280},
+  number={5368},
+  pages={1371-1374},
+  year={1998},
+  publisher={American Association for the Advancement of Science}
+}
+
+@inproceedings{kam2008designing,
+  title="Designing e-learning games for rural children in India: a format for balancing learning with fun",
+  author="Matthew Kam and Aishvarya Agarwal and Anuj Kumar and Siddhartha Lal and Akhil Mathur and Anuj Tewari and John Canny",
+  booktitle="Proceedings of the 7th ACM conference on Designing interactive systems",
+  pages="58-67",
+  month="February",
+  year="2008",
+  organization="ACM"
+}
+
+@inproceedings{lessel2016watercoaster,
+  title={WaterCoaster: A Device to Encourage People in a Playful Fashion to Reach Their Daily Water Intake Level},
+  author={Lessel, Pascal and Altmeyer, Maximilian and Kerber, Frederic and Barz, Michael and Leidinger, Cornelius and Kr{\"u}ger, Antonio},
+  booktitle={Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems},
+  pages={1813-1820},
+  year={2016},
+  organization={ACM}
+}
+
+@article{brox2011exergames,
+  title={Exergames for elderly},
+  author={Brox, Ellen and Luque, Luis Fernandez and Evertsen, G and Hern{\'a}ndez, Juan Emilio Gonz{\'a}lez},
+  journal={Social exergames to persuade seniors to increase physical activity, UbiTheraGames, Dublin},
+  pages={23-26},
+  year={2011}
+}
+
+@inproceedings{walsh2014stepcity,
+  title={StepCity: a preliminary investigation of a personal informatics-based social game on behavior change},
+  author={Walsh, Greg and Golbeck, Jennifer},
+  booktitle={CHI'14 Extended Abstracts on Human Factors in Computing Systems},
+  pages={2371-2376},
+  year={2014},
+  organization={ACM}
+}
+
+@inproceedings{smeddinck2015exergames,
+  title={Exergames for physiotherapy and rehabilitation: A medium-term situated study of motivational aspects and impact on functional reach},
+  author={Smeddinck, Jan David and Herrlich, Marc and Malaka, Rainer},
+  booktitle={Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems},
+  pages={4143-4146},
+  year={2015},
+  organization={ACM}
+}
+
+@inproceedings{vella2013positively,
+  title={Positively playful: when videogames lead to player wellbeing},
+  author={Vella, Kellie and Johnson, Daniel and Hides, Leanne},
+  booktitle={Proceedings of the First International Conference on Gameful Design, Research, and Applications},
+  pages={99-102},
+  year={2013},
+  organization={ACM}
+}
+
+@inproceedings{knaving2013designing,
+  title={Designing for fun and play: exploring possibilities in design for gamification},
+  author={Knaving, Kristina and Bj{\"o}rk, Staffan},
+  booktitle={Proceedings of the First International Conference on Gameful Design, Research, and Applications},
+  pages={131-134},
+  year={2013},
+  organization={ACM}
+}
+
+@article{orji2013lunchtime,
+  title={LunchTime: a slow-casual game for long-term dietary behavior change},
+  author={Orji, Rita and Vassileva, Julita and Mandryk, Regan L},
+  journal={Personal and Ubiquitous Computing},
+  volume={17},
+  number={6},
+  pages={1211-1221},
+  year={2013},
+  publisher={Springer}
+}
+
+@article{carstensen2011emotional,
+  title={Emotional experience improves with age: evidence based on over 10 years of experience sampling.},
+  author={Carstensen, Laura L and Turan, Bulent and Scheibe, Susanne and Ram, Nilam and Ersner-Hershfield, Hal and Samanez-Larkin, Gregory R and Brooks, Kathryn P and Nesselroade, John R},
+  journal={Psychology and aging},
+  volume={26},
+  number={1},
+  pages={21},
+  year={2011},
+  publisher={American Psychological Association}
+}
+
+
+@inproceedings{orji2013:tailoring,
+  title="Tailoring persuasive health games to gamer type",
+  author="Rita Orji and Regan L Mandryk and Julita Vassileva and Kathrin M Gerling",
+  booktitle="Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+  pages="2467-2476",
+  year={2013},
+  organization="ACM"
+}
+
+@inproceedings{han2014designing,
+  title={Designing engaging camera based mobile games for implicit heart rate monitoring},
+  author={Han, Teng and Shi, Lanfei and Xiao, Xiang and Canny, John and Wang, Jingtao},
+  booktitle={Proceedings of the extended abstracts of the 32nd annual ACM conference on Human factors in computing systems},
+  pages={1675-1680},
+  year={2014},
+  organization={ACM}
+}
+
+@inproceedings{han2015balancing,
+  title={Balancing accuracy and fun: Designing camera based mobile games for implicit heart rate monitoring},
+  author={Han, Teng and Xiao, Xiang and Shi, Lanfei and Canny, John and Wang, Jingtao},
+  booktitle={Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems},
+  pages={847-856},
+  year={2015},
+  organization={ACM}
+}
+
+@article{nicholson2012user,
+  title={A user-centered theoretical framework for meaningful gamification},
+  author={Nicholson, Scott},
+  journal={Games+ Learning+ Society},
+  volume={8},
+  number={1},
+  pages={223-230},
+  year={2012}
+}
+
+@inproceedings{forde2015informational,
+  title={Informational vs. Controlling Gamification: A Study Design},
+  author={Forde, Seamus F and Mekler, Elisa D and Opwis, Klaus},
+  booktitle={Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play},
+  pages={517-522},
+  year={2015},
+  organization={ACM}
+}
+
+@inproceedings{mekler2013disassembling,
+  title={Disassembling gamification: the effects of points and meaning on user motivation and performance},
+  author={Mekler, Elisa D and Br{\"u}hlmann, Florian and Opwis, Klaus and Tuch, Alexandre N},
+  booktitle={CHI'13 extended abstracts on human factors in computing systems},
+  pages={1137-1142},
+  year={2013},
+  organization={ACM}
+}
+
+@inproceedings{mekler2013points,
+  title={Do points, levels and leaderboards harm intrinsic motivation?: an empirical analysis of common gamification elements},
+  author={Mekler, Elisa D and Br{\"u}hlmann, Florian and Opwis, Klaus and Tuch, Alexandre N},
+  booktitle={Proceedings of the First International Conference on gameful design, research, and applications},
+  pages={66-73},
+  year={2013},
+  organization={ACM}
+}
+
+
+@article{nicholson2012user,
+  title={A user-centered theoretical framework for meaningful gamification},
+  author={Nicholson, Scott},
+  journal={Games+ Learning+ Society},
+  volume={8},
+  number={1},
+  pages={223-230},
+  year={2012}
+}
+
+@article{deci1994facilitating,
+  title={Facilitating internalization: The self-determination theory perspective},
+  author={Deci, Edward L and Eghrari, Haleh and Patrick, Brian C and Leone, Dean R},
+  journal={Journal of personality},
+  volume={62},
+  number={1},
+  pages={119-142},
+  year={1994},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{mekler2013points,
+  title={Do points, levels and leaderboards harm intrinsic motivation?: an empirical analysis of common gamification elements},
+  author={Mekler, Elisa D and Br{\"u}hlmann, Florian and Opwis, Klaus and Tuch, Alexandre N},
+  booktitle={Proceedings of the First International Conference on gameful design, research, and applications},
+  pages={66-73},
+  year={2013},
+  organization={ACM}
+}
+
+@article{premack1959toward,
+  title={Toward empirical behavior laws: I. Positive reinforcement.},
+  author={Premack, David},
+  journal={Psychological review},
+  volume={66},
+  number={4},
+  pages={219},
+  year={1959},
+  publisher={American Psychological Association}
+}
+
+@inproceedings{berkovsky2010physical,
+  title={Physical activity motivating games: virtual rewards for real activity},
+  author={Berkovsky, Shlomo and Coombe, Mac and Freyne, Jill and Bhandari, Dipak and Baghaei, Nilufar},
+  booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  pages={243-252},
+  year={2010},
+  organization={ACM}
+}
+
+@article{levine2006non,
+  title={Non-exercise activity thermogenesis the crouching tiger hidden dragon of societal weight gain},
+  author={Levine, James A and Vander Weg, Mark W and Hill, James O and Klesges, Robert C},
+  journal={Arteriosclerosis, thrombosis, and vascular biology},
+  volume={26},
+  number={4},
+  pages={729-736},
+  year={2006},
+  publisher={Am Heart Assoc}
+}
+
+@article{svetkey2015cell,
+  title={Cell phone intervention for you (CITY): A randomized, controlled trial of behavioral weight loss intervention for young adults using mobile technology},
+  author={Svetkey, Laura P and Batch, Bryan C and Lin, Pao-Hwa and Intille, Stephen S and Corsino, Leonor and Tyson, Crystal C and Bosworth, Hayden B and Grambow, Steven C and Voils, Corrine and Loria, Catherine and others},
+  journal={Obesity},
+  volume={23},
+  number={11},
+  pages={2133-2141},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{chen2014healthytogether,
+  title={HealthyTogether: exploring social incentives for mobile fitness applications},
+  author={Chen, Yu and Pu, Pearl},
+  booktitle={Proceedings of the Second International Symposium of Chinese CHI},
+  pages={25-34},
+  year={2014},
+  organization={ACM}
+}
+
+@inproceedings{botha2015icts,
+  title="ICTs in Rural Education: Let the Game Begin",
+  author="Adele Botha and Marlien Herselman",
+  booktitle="Proceedings of the 2015 Annual Symposium on Computing for Development",
+  pages="105-113",
+  month="December",
+  year={2015},
+  organization="ACM"
+}
+
+@inproceedings{preist2015use,
+  title={The Use of Games as Extrinisic Motivation in Education},
+  author={Preist, Chris and Jones, Robert},
+  booktitle={Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems},
+  pages={3735-3738},
+  year={2015},
+  organization={ACM}
+}
+
+@article{nakajima2013designing,
+  title={Designing motivation using persuasive ambient mirrors},
+  author={Nakajima, Tatsuo and Lehdonvirta, Vili},
+  journal={Personal and ubiquitous computing},
+  volume={17},
+  number={1},
+  pages={107-126},
+  year={2013},
+  publisher={Springer}
+}
+
+@article{higgins2016smartphone,
+  title={Smartphone applications for patients' health and fitness},
+  author={Higgins, John P},
+  journal={The American journal of medicine},
+  volume={129},
+  number={1},
+  pages={11-19},
+  year={2016},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{chen2016social,
+  title={Social Incentives in Pervasive Fitness Apps for Obese and Diabetic patients},
+  author={Chen, Yu and Randriambelonoro, Mirana and Geissbuhler, Antoine and Pu, Pearl},
+  booktitle={Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion},
+  pages={245-248},
+  year={2016},
+  organization={ACM}
+}
+
+
+@inproceedings{consolvo2009goal,
+  title={Goal-setting considerations for persuasive technologies that encourage physical activity},
+  author={Consolvo, Sunny and Klasnja, Predrag and McDonald, David W and Landay, James A},
+  booktitle={Proceedings of the 4th international Conference on Persuasive Technology},
+  pages={8},
+  year={2009},
+  organization={ACM}
+}
+
+
+@article{aarsand2012mobile,
+  title={Mobile health applications to assist patients with diabetes: lessons learned and design implications},
+  author={{\AA}rsand, Eirik and Fr{\o}island, Dag Helge and Skr{\o}vseth, Stein Olav and Chomutare, Taridzo and Tatara, Naoe and Hartvigsen, Gunnar and Tufano, James T},
+  journal={Journal of diabetes science and technology},
+  volume={6},
+  number={5},
+  pages={1197-1206},
+  year={2012},
+  publisher={SAGE Publications}
+}
+
+
+@article{guh2009incidence,
+  title={The incidence of co-morbidities related to obesity and overweight: a systematic review and meta-analysis},
+  author={Guh, Daphne P and Zhang, Wei and Bansback, Nick and Amarsi, Zubin and Birmingham, C Laird and Anis, Aslam H},
+  journal={BMC public health},
+  volume={9},
+  number={1},
+  pages={1},
+  year={2009},
+  publisher={BioMed Central}
+}
+
+@article{de2000clinical,
+  title={Clinical Problems Caused by Obesity-Endotext},
+  author={De Groot, LJ and Beck-Peccoz, P and Chrousos, G and Dungan, K and Grossman, A and Hershman, JM and Koch, C and McLachlan, R and New, M and Rebar, R and others},
+  year={2000},
+  publisher={MDText. com, Inc.}
+}
+
+@article{quinn2008welldoc,
+  title={WellDoc™ mobile diabetes management randomized controlled trial: change in clinical and behavioral outcomes and patient and physician satisfaction},
+  author={Quinn, Charlene C and Clough, Suzanne Sysko and Minor, James M and Lender, Dan and Okafor, Maria C and Gruber-Baldini, Ann},
+  journal={Diabetes technology \& therapeutics},
+  volume={10},
+  number={3},
+  pages={160-168},
+  year={2008},
+  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801-5215 USA}
+}
+
+
+
+@article{steyn2006chronic,
+  title={Chronic diseases of lifestyle in South Africa: 1995-2005},
+  author={Steyn, K and Fourie, J and Temple, N},
+  journal={Cape Town: South African Medical Research Council},
+  pages={33-47},
+  year={2006}
+}
+
+@article{higgins2016smartphone,
+  title={Smartphone applications for patients' health and fitness},
+  author={Higgins, John P},
+  journal={The American journal of medicine},
+  volume={129},
+  number={1},
+  pages={11-19},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{handel2011mhealth,
+  title={mHealth (mobile health)—Using apps for health and wellness},
+  author={Handel, Marsha J},
+  journal={EXPLORE: The Journal of Science and Healing},
+  volume={7},
+  number={4},
+  pages={256-261},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{premack1959toward,
+  title={Toward empirical behavior laws: I. Positive reinforcement.},
+  author={Premack, David},
+  journal={Psychological review},
+  volume={66},
+  number={4},
+  pages={219},
+  year={1959},
+  publisher={American Psychological Association}
+}
+@incollection{silva2014:smartphones,
+  TITLE="Smartphones, smart seniors, but not-so-smart apps: A heuristic evaluation of fitness apps",
+  AUTHOR="Paula Alexandra Silva and Kelly Holden and Aska Nii",
+  BOOKTITLE="Foundations of Augmented Cognition. Advancing Human Performance and Decision-Making through Adaptive Systems",
+  PAGES="347-358",
+  MONTH="June",
+  YEAR={2014},
+  PUBLISHER="Springer"
+}
+
+@incollection{brauner2013increase,
+  title={Increase physical fitness and create health awareness through exergames and gamification},
+  author={Brauner, Philipp and Valdez, Andr{\'e} Calero and Schroeder, Ulrik and Ziefle, Martina},
+  booktitle={Human Factors in Computing and Informatics},
+  pages={349-362},
+  year={2013},
+  publisher={Springer}
+}
+
+@article{pollak2010s,
+  title={It's time to eat! Using mobile games to promote healthy eating},
+  author={Pollak, John and Gay, Geri and Byrne, Sahara and Wagner, Emily and Retelny, Daniela and Humphreys, Lee},
+  journal={IEEE Pervasive Computing},
+  volume={9},
+  number={3},
+  pages={21-27},
+  year={2010},
+  publisher={IEEE}
+  
+}
+
+
+@inproceedings{reno2016matters,
+  title={It Matters If My Friends Stop Smoking: Social Support for Behavior Change in Social Media},
+  author={Reno, Corbin and Poole, Erika S},
+  booktitle={Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},
+  pages={5548-5552},
+  year={2016},
+  organization={ACM}
+}
+
+
+@inproceedings{epstein2015nobody,
+  title={From nobody cares to way to go!: A Design Framework for Social Sharing in Personal Informatics},
+  author={Epstein, Daniel A and Jacobson, Bradley H and Bales, Elizabeth and McDonald, David W and Munson, Sean A},
+  booktitle={Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work \& Social Computing},
+  pages={1622-1636},
+  year={2015},
+  organization={ACM}
+}
+
+@inproceedings{rapp2014meaningful,
+  title={Meaningful game elements for personal informatics},
+  author={Rapp, Amon},
+  booktitle={Proceedings of the 2014 ACM International Symposium on Wearable Computers: Adjunct Program},
+  pages={125-130},
+  year={2014},
+  organization={ACM}
+}
+
+@inproceedings{han2014designing,
+  title={Designing engaging camera based mobile games for implicit heart rate monitoring},
+  author={Han, Teng and Shi, Lanfei and Xiao, Xiang and Canny, John and Wang, Jingtao},
+  booktitle={Proceedings of the extended abstracts of the 32nd annual ACM conference on Human factors in computing systems},
+  pages={1675-1680},
+  year={2014},
+  organization={ACM}
+}
+
+
+@article{ploderer2014social,
+  title={Social interaction and reflection for behaviour change},
+  author={Ploderer, Bernd and Reitberger, Wolfgang and Oinas-Kukkonen, Harri and van Gemert-Pijnen, Julia},
+  journal={Personal and ubiquitous computing},
+  volume={18},
+  number={7},
+  pages={1667-1676},
+  year={2014},
+  publisher={Springer}
+}
+@article{premack1959toward,
+  title={Toward empirical behavior laws: I. Positive reinforcement.},
+  author={Premack, David},
+  journal={Psychological review},
+  volume={66},
+  number={4},
+  pages={219},
+  year={1959},
+  publisher={American Psychological Association}
+}
+
+@article{blackman2016developing,
+  title={Developing Mobile Apps for Physical Activity in Low Socioeconomic Status Youth},
+  author={Blackman, Kacie CA and Zoellner, Jamie and McCrickard, D Scott and Harlow, Judith and Winchester III, Woodrow W and Hill, Jennie L and You, Wen and Estabrooks, Paul A},
+  journal={Journal of Mobile Technology in Medicine},
+  volume={5},
+  number={1},
+  pages={33-44},
+  year={2016}
+}
+
+
+@article{cafazzo2012:bant,
+  title="Design of an mHealth app for the self-management of adolescent type 1 diabetes: a pilot study",
+  author="Joseph A Cafazzo and Mark Casselman and Nathaniel Hamming and Debra K Katzman  and Mark R Palmert",
+  journal="Journal of medical Internet research",
+  volume="14",
+  number="3",
+  pages="e70",
+  month="May",
+  year={2012},
+  publisher="JMIR Publications Inc., Toronto, Canada"
+  
+}
+
+@article{berkovsky2012physical,
+  title={Physical activity motivating games: be active and get your own reward},
+  author={Berkovsky, Shlomo and Freyne, Jill and Coombe, Mac},
+  journal={ACM Transactions on Computer-Human Interaction (TOCHI)},
+  volume={19},
+  number={4},
+  pages={32},
+  year={2012},
+  publisher={ACM}
+}
+
+
+
+
+
+
+
+@inproceedings{albaina2009flowie,
+  title={Flowie: A persuasive virtual coach to motivate elderly individuals to walk},
+  author={Albaina, I{\~n}aki Merino and Visser, Thomas and van der Mast, Charles APG and Vastenburg, Martijn H},
+  booktitle={2009 3rd International Conference on Pervasive Computing Technologies for Healthcare},
+  pages={1-7},
+  year={2009},
+  organization={IEEE}
+}
+
+
+
+@inproceedings{bales2011interpersonal,
+  title={Interpersonal informatics: making social influence visible},
+  author={Bales, Elizabeth and Griswold, William},
+  booktitle={CHI'11 Extended Abstracts on Human Factors in Computing Systems},
+  pages={2227-2232},
+  year={2011},
+  organization={ACM}
+}
+
+@inproceedings{chen2014healthytogether,
+  title={HealthyTogether: exploring social incentives for mobile fitness applications},
+  author={Chen, Yu and Pu, Pearl},
+  booktitle={Proceedings of the Second International Symposium of Chinese CHI},
+  pages={25-34},
+  year={2014},
+  organization={ACM}
+}
+
+@article{fujiki2008neat,
+  title={NEAT-o-Games: blending physical activity and fun in the daily routine},
+  author={Fujiki, Yuichi and Kazakos, Konstantinos and Puri, Colin and Buddharaju, Pradeep and Pavlidis, Ioannis and Levine, James},
+  journal={Computers in Entertainment (CIE)},
+  volume={6},
+  number={2},
+  pages={21},
+  year={2008},
+  publisher={ACM}
+}
+
+
+@article{bravata2007using,
+  title={Using pedometers to increase physical activity and improve health: a systematic review},
+  author={Bravata, Dena M and Smith-Spangler, Crystal and Sundaram, Vandana and Gienger, Allison L and Lin, Nancy and Lewis, Robyn and Stave, Christopher D and Olkin, Ingram and Sirard, John R},
+  journal={Jama},
+  volume={298},
+  number={19},
+  pages={2296-2304},
+  year={2007},
+  publisher={American Medical Association}
+}
+
+@inproceedings{albaina2009flowie,
+  title={Flowie: A persuasive virtual coach to motivate elderly individuals to walk},
+  author={Albaina, I{\~n}aki Merino and Visser, Thomas and van der Mast, Charles APG and Vastenburg, Martijn H},
+  booktitle={2009 3rd International Conference on Pervasive Computing Technologies for Healthcare},
+  pages={1-7},
+  year={2009},
+  organization={IEEE}
+}
+
+
+@article{power2011:obesity,
+  title="Obesity, cardiovascular fitness, and physically active adolescents' motivations for activity: A self-determination theory approach",
+  author="Thomas G Power and Sarah C Ullrich-French and Michael M Steele and Kenn B Daratha and Ruth C Bindler",
+  journal="Psychology of Sport and Exercise",
+  volume="12",
+  number="6",
+  pages="593-598",
+  year={2011}",
+  publisher="Elsevier"
+}
+
+@article{williams2006:testing,
+  title="Testing a self-determination theory intervention for motivating tobacco cessation: supporting autonomy and competence in a clinical trial",
+  author="Geoffrey C Williams and Holly A McGregor and Daryl Sharp and Chantal Levesque and Ruth W Kouides and Richard M Ryan and Edward L Deci",
+  journal="Health Psychology",
+  volume="25",
+  number="1",
+  pages="91",
+  year={2006},
+  publisher="American Psychological Association"
+}
+
+@article{webb2013:self,
+  title="Self-determination theory and consumer behavioural change: Evidence from a household energy-saving behaviour study",
+  author="Dave Webb and Geoffrey N Soutar and Tim Mazzarol and Patricia Saldaris",
+  journal="Journal of Environmental Psychology",
+  volume="35",
+  pages="59-66",
+  year={2013},
+  publisher="Elsevier"
+}
+
+@inproceedings{fan2012spark,
+  title={A spark of activity: exploring informative art as visualization for physical activity},
+  author={Fan, Chloe and Forlizzi, Jodi and Dey, Anind K},
+  booktitle={Proceedings of the 2012 ACM Conference on Ubiquitous Computing},
+  pages={81-84},
+  year={2012},
+  organization={ACM}
+}
+
+@article{caspersen1985physical,
+  title={Physical activity, exercise, and physical fitness: definitions and distinctions for health-related research.},
+  author={Caspersen, Carl J and Powell, Kenneth E and Christenson, Gregory M},
+  journal={Public health reports},
+  volume={100},
+  number={2},
+  pages={126},
+  year={1985},
+  publisher={Association of Schools of Public Health}
+}
+
+@article{southerton2013zombies,
+  title={Zombies, Run!’: Rethinking immersion in light of nontraditional gaming contexts},
+  author={Southerton, Clare},
+  journal={Transmedia: Storytelling and Beyond Digital Interfaces},
+  year={2013}
+}
+
+
+@article{marsh2011serious,
+  title={Serious games continuum: Between games for purpose and experiential environments for purpose},
+  author={Marsh, Tim},
+  journal={Entertainment Computing},
+  volume={2},
+  number={2},
+  pages={61-68},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@inproceedings{kumar2015mobile,
+  title="Mobile phones for maternal health in rural India",
+  author="Neha Kumar and Richard J Anderson",
+  booktitle="Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems",
+  pages="427-436",
+  year={2015},
+  organization="ACM"
+}
+
+@inproceedings{vashistha2016mobile,
+  title={Mobile Video Dissemination for Community Health},
+  author={Vashistha, Aditya and Kumar, Neha and Mishra, Anil and Anderson, Richard},
+  booktitle={Proceedings of the Eighth International Conference on Information and Communication Technologies and Development},
+  pages={20},
+  year={2016},
+  organization={ACM}
+}
+
+@article{colineau2011motivating,
+  title={Motivating reflection about health within the family: the use of goal setting and tailored feedback},
+  author={Colineau, Nathalie and Paris, C{\'e}cile},
+  journal={User Modeling and User-Adapted Interaction},
+  volume={21},
+  number={4-5},
+  pages={341-376},
+  year={2011},
+  publisher={Springer}
+}
+
+@inproceedings{grimes2009toward,
+  title={Toward technologies that support family reflections on health},
+  author={Grimes, Andrea and Tan, Desney and Morris, Dan},
+  booktitle={Proceedings of the ACM 2009 international conference on Supporting group work},
+  pages={311-320},
+  year={2009},
+  organization={ACM}
+}
+
+
+@article{lieberman2006dance,
+  title={Dance games and other exergames: What the research says},
+  author={Lieberman, Debra A},
+  year={2006},
+  publisher={Citeseer}
+}
+
+@inproceedings{gobel2010serious,
+  title={Serious games for health: personalized exergames},
+  author={G{\"o}bel, Stefan and Hardy, Sandro and Wendel, Viktor and Mehm, Florian and Steinmetz, Ralf},
+  booktitle={Proceedings of the 18th ACM international conference on Multimedia},
+  pages={1663-1666},
+  year={2010},
+  organization={ACM}
+}
+
+@article{seaborn2015:gamification,
+  title="Gamification in theory and action: A survey",
+  author="Katie Seaborn and Deborah I Fels",
+  journal="International Journal of Human-Computer Studies",
+  volume="74",
+  pages="14-31",
+  year={2015},
+  publisher="Elsevier"
+}
+
+@inproceedings{saksono2015spaceship,
+  title={Spaceship Launch: Designing a Collaborative Exergame for Families},
+  author={Saksono, Herman and Ranade, Ashwini and Kamarthi, Geeta and Castaneda-Sceppa, Carmen and Hoffman, Jessica A and Wirth, Cathy and Parker, Andrea G},
+  booktitle={Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work \& Social Computing},
+  pages={1776-1787},
+  year={2015},
+  organization={ACM}
+}
+
+@article{graves2010physiological,
+  title={The physiological cost and enjoyment of Wii Fit in adolescents, young adults, and older adults},
+  author={Graves, Lee EF and Ridgers, Nicola D and Williams, Karen and Stratton, Gareth and Atkinson, Greg T},
+  journal={Journal of physical activity \& health},
+  volume={7},
+  number={3},
+  pages={393-401},
+  year={2010},
+  publisher={Human Kinetics}
+}
+
+
+
+@inproceedings{bailur2010liminal,
+  title={The liminal role of the information intermediary in community multimedia centres},
+  author={Bailur, Savita},
+  booktitle={Proceedings of the 4th ACM/IEEE International Conference on Information and Communication Technologies and Development},
+  pages={5},
+  year={2010},
+  organization={ACM}
+}
+
+@article{jones2008giddens,
+  title={Giddens's structuration theory and information systems research},
+  author={Jones, Matthew R and Karsten, Helena},
+  journal={MIS quarterly},
+  volume={32},
+  number={1},
+  pages={127-157},
+  year={2008},
+  publisher={Society for Information Management and The Management Information Systems Research Center}
+}
+
+@article{ryan2000intrinsic,
+  title={Intrinsic and extrinsic motivations: Classic definitions and new directions},
+  author={Ryan, Richard M and Deci, Edward L},
+  journal={Contemporary educational psychology},
+  volume={25},
+  number={1},
+  pages={54-67},
+  year={2000},
+  publisher={Elsevier}
+}
+@BOOK{deci1985:intrinsic,
+  TITLE="Intrinsic motivation and self-determination in human behavior",
+  AUTHOR="Edward L Deci and Richard M Ryan",
+  YEAR={1985},
+  PUBLISHER="Springer Science \& Business Media"
+}
+@article{ryan2000:self,
+  title="Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being",
+  author="Richard M Ryan and Edward L Deci",
+  journal="American psychologist",
+  volume="55",
+  number="1",
+  pages="68",
+  year={2000},
+  publisher="American Psychological Association"
+}
+
+@article{king2013gamification,
+  title={‘Gamification’: Influencing health behaviours with games},
+  author={King, Dominic and Greaves, Felix and Exeter, Christopher and Darzi, Ara},
+  journal={Journal of the Royal Society of Medicine},
+  volume={106},
+  number={3},
+  pages={76-78},
+  year={2013},
+  publisher={SAGE Publications}
+}
+
+
+@article{bailur2012complex,
+  title={The complex position of the intermediary in telecenters and community multimedia centers},
+  author={Bailur, Savita and Masiero, Silvia},
+  journal={Information Technologies \& International Development},
+  volume={8},
+  number={1},
+  pages={pp-27},
+  year={2012}
+}
+
+
+@article{nih2000practical,
+  title={The Practical Guide Identification, Evaluation, and Treatment of Overweight and Obesity in Adults."},
+  author={NIH, NOEI and National Heart, Lung, and Blood Institute and North American Association for the Study of Obesity and others},
+  journal={NIH Publication Number DO-4084},
+  pages={35-38},
+  year={2000}
+}
+
+@inproceedings{li2011understanding,
+  title={Understanding my data, myself: supporting self-reflection with ubicomp technologies},
+  author={Li, Ian and Dey, Anind K and Forlizzi, Jodi},
+  booktitle={Proceedings of the 13th international conference on Ubiquitous computing},
+  pages={405-414},
+  year={2011},
+  organization={ACM}
+}
+
+@inproceedings{kamal2010understanding,
+  title={Online social networks for personal informatics to promote positive health behavior},
+  author={Kamal, Noreen and Sidney, Fels and Kendall, Ho},
+  booktitle={Proceedings of second ACM SIGMM workshop on Social media},
+  pages={47-52},
+  month={October},
+  year={2010},
+  organization={ACM}
+}@article{pollak2010s,
+  title={It's time to eat! Using mobile games to promote healthy eating},
+  author={Pollak, John and Gay, Geri and Byrne, Sahara and Wagner, Emily and Retelny, Daniela and Humphreys, Lee},
+  journal={IEEE Pervasive Computing},
+  volume={9},
+  number={3},
+  pages={21-27},
+  year={2010},
+  publisher={IEEE}
+}
+
+
+@inproceedings{sambasivan2010human,
+  title={The human infrastructure of ICTD},
+  author={Sambasivan, Nithya and Smyth, Thomas},
+  booktitle={Proceedings of the 4th ACM/IEEE International Conference on Information and Communication Technologies and Development},
+  pages={40},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{li2010stage,
+  title={A stage-based model of personal informatics systems},
+  author={Li, Ian and Dey, Anind and Forlizzi, Jodi},
+  booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  pages={557-566},
+  year={2010},
+  organization={ACM}
+}
+
+
+@article{arteaga2010:persuasive,
+  title="Persuasive mobile exercise companion for teenagers with weight management issues",
+  author="Sonia Arteaga",
+  journal="ACM SIGACCESS Accessibility and Computing",
+  number="96",
+  pages="4-10",
+  year={2010},
+  publisher="ACM"
+}
+
+@inproceedings{burns2012using,
+  title={Using personal informatics to motivate physical activity: could we be doing it wrong?},
+  author={Burns, PJ and Lueg, Christopher and Berkovsky, Shlomo},
+  booktitle={Chi 2012 workshop},
+  pages={1-4},
+  year={2012}
+}
+
+@inproceedings{macleod2013personal,
+  title={Personal informatics in chronic illness management},
+  author={MacLeod, Haley and Tang, Anthony and Carpendale, Sheelagh},
+  booktitle={Proceedings of Graphics Interface 2013},
+  pages={149-156},
+  year={2013},
+  organization={Canadian Information Processing Society}
+}
+
+
+@inproceedings{fogg2009behavior,
+  title={A behavior model for persuasive design},
+  author={Fogg, Brian J},
+  booktitle={Proceedings of the 4th international Conference on Persuasive Technology},
+  pages={40},
+  year={2009},
+  organization={ACM}
+}
+
+@inproceedings{fogg2009behavior2,
+  title={The behavior grid: 35 ways behavior can change},
+  author={Fogg, BJ},
+  booktitle={Proceedings of the 4th international Conference on Persuasive Technology},
+  pages={42},
+  year={2009},
+  organization={ACM}
+}
+
+@inproceedings{li2011personal,
+  title={Personal informatics and HCI: design, theory, and social implications},
+  author={Li, Ian and Dey, Anind and Forlizzi, Jodi and H{\"o}{\"o}k, Kristina and Medynskiy, Yevgeniy},
+  booktitle={CHI'11 Extended Abstracts on Human Factors in Computing Systems},
+  pages={2417-2420},
+  year={2011},
+  organization={ACM}
+}
+
+
+@inproceedings{li2012personal,
+  title={Personal informatics in practice: improving quality of life through data},
+  author={Li, Ian and Medynskiy, Yevgeniy and Froehlich, Jon and Larsen, Jakob},
+  booktitle={CHI'12 Extended Abstracts on Human Factors in Computing Systems},
+  pages={2799-2802},
+  year={2012},
+  organization={ACM}
+}
+
+
+@inproceedings{harjumaa2009understanding,
+  title={Understanding persuasive software functionality in practice: a field trial of polar FT60},
+  author={Harjumaa, Marja and Segerst{\aa}hl, Katarina and Oinas-Kukkonen, Harri},
+  booktitle={proceedings of the 4th international conference on persuasive technology},
+  pages={2},
+  year={2009},
+  organization={ACM}
+}
+
+@article{cole2010text,
+  title={Text messaging as a tool for behavior change in disease prevention and management},
+  author={Cole-Lewis, Heather and Kershaw, Trace},
+  journal={Epidemiologic reviews},
+  volume={32},
+  number={1},
+  pages={56-69},
+  year={2010},
+  publisher={Soc Epidemiolc Res}
+}
+
+
+
+
+
+@article{fjeldsoe2009behavior,
+  title={Behavior change interventions delivered by mobile telephone short-message service},
+  author={Fjeldsoe, Brianna S and Marshall, Alison L and Miller, Yvette D},
+  journal={American journal of preventive medicine},
+  volume={36},
+  number={2},
+  pages={165-173},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{comber2013designing,
+  title={Designing beyond habit: opening space for improved recycling and food waste behaviors through processes of persuasion, social influence and aversive affect},
+  author={Comber, Rob and Thieme, Anja},
+  journal={Personal and ubiquitous computing},
+  volume={17},
+  number={6},
+  pages={1197-1210},
+  year={2013},
+  publisher={Springer}
+}
+
+@inproceedings{comber2013bincam,
+  title={BinCam: Designing for engagement with Facebook for behavior change},
+  author={Comber, Rob and Thieme, Anja and Rafiev, Ashur and Taylor, Nick and Kr{\"a}mer, Nicole and Olivier, Patrick},
+  booktitle={IFIP Conference on Human-Computer Interaction},
+  pages={99-115},
+  year={2013},
+  organization={Springer}
+}
+
+
+@article{higgins2016smartphone,
+  title={Smartphone applications for patients' health and fitness},
+  author={Higgins, John P},
+  journal={The American journal of medicine},
+  volume={129},
+  number={1},
+  pages={11-19},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@misc{heeks1999tyranny,
+  title={The tyranny of participation in information systems: Learning from development projects},
+  author={Heeks, Richard},
+  year={1999},
+  publisher={Institute for Development Policy and Management, University of Manchester Manchester}
+}
+
+@article{bailur2012complex,
+  title={The complex position of the intermediary in telecenters and community multimedia centers},
+  author={Bailur, Savita and Masiero, Silvia},
+  journal={Information Technologies \& International Development},
+  volume={8},
+  number={1},
+  pages={pp-27},
+  year={2012}
+}
+
+
+@article{seligman1977feedback,
+  title={Feedback as a means of decreasing residential energy consumption.},
+  author={Seligman, Clive and Darley, John M},
+  journal={Journal of Applied Psychology},
+  volume={62},
+  number={4},
+  pages={363},
+  year={1977},
+  publisher={American Psychological Association}
+}
+
+@article{munson2012mindfulness,
+  title={Mindfulness, reflection, and persuasion in personal informatics},
+  author={Munson, Sean},
+  year={2012},
+  publisher={Citeseer}
+}
+
+@inproceedings{lee2006pmeb,
+  title={PmEB: a mobile phone application for monitoring caloric balance},
+  author={Lee, Gunny and Tsai, Chris and Griswold, William G and Raab, Fred and Patrick, Kevin},
+  booktitle={CHI'06 Extended Abstracts on Human Factors in Computing Systems},
+  pages={1013-1018},
+  year={2006},
+  organization={ACM}
+}
+@article{benatar2013challenges,
+  title={The challenges of health disparities in South Africa},
+  author={Benatar, S},
+  journal={SAMJ: South African Medical Journal},
+  volume={103},
+  number={3},
+  pages={154-155},
+  year={2013},
+  publisher={Health \& Medical Publishing Group}
+}
+
+@misc{francisco2012analysis,
+  title="Analysis and Application of Gamification",
+  author="Andr{\'e}s Francisco and Francisco Luis and J Gonzalez and J Isla",
+  year={2012},
+  publisher="Interaccion"
+}
+
+@article{sailer2013:psychological,
+  title="Psychological Perspectives on Motivation through Gamification.",
+  author="Michael Sailer and Jan Hense and Heinz Mandl and Markus Klevers",
+  journal="Interaction Design and Architecture(s)",
+  volume={19},
+  pages={28-37},
+  year={2013}
+}
+
+@INPROCEEDINGS{klasnja2009:using,
+  TITLE="Using mobile \& personal sensing technologies to support health behavior change in everyday life: lessons learned.",
+  AUTHOR="Predrag V Klasnja and Sunny Consolvo and David W McDonald and James A Landay and Wanda Pratt",
+  BOOKTILE={AMIA},
+  YEAR={2009},
+  ORGANIZATION={Citeseer}
+}
+
+@incollection{lin2006:fish,
+  TITLE="Fish'n'Steps: Encouraging physical activity with an interactive computer game",
+  AUTHOR="James J Lin and Lena Mamykina and Silvia Lindtner,  and Gregory Delajoux and Henry B Strub",
+  BOOKTITLE="UbiComp 2006: Ubiquitous Computing",
+  PAGES={261-278},
+  YEAR={2006},
+  PUBLISHER="Springer"
+}
+
+@article{vannoy2010social,
+  title={The social influence model of technology adoption},
+  author={Vannoy, Sandra A and Palvia, Prashant},
+  journal={Communications of the ACM},
+  volume={53},
+  number={6},
+  pages={149-153},
+  year={2010},
+  publisher={ACM}
+}
+
+@book{deci1985intrinsic,
+  title={Intrinsic motivation and self-determination in human behavior},
+  author={Deci, Edward L and Ryan, Richard M},
+  year={1985},
+  publisher={Springer Science \& Business Media}
+}
+
+@article{lee2015:relating,
+  title={Relating motivation to information and communication technology acceptance: Self-determination theory perspective},
+  author={Lee, Younghwa and Lee, Jintae and Hwang, Yujong},
+  journal={Computers in Human Behavior},
+  volume={51},
+  pages={418-428},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{ryan2000:self,
+  title={Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.},
+  author={Ryan, Richard M and Deci, Edward L},
+  journal={American psychologist},
+  volume={55},
+  number={1},
+  pages={68},
+  year={2000},
+  publisher={American Psychological Association}
+}
+
+@article{zhang2008motivational,
+  title={Technical opinion Motivational affordances: reasons for ICT design and use},
+  author={Zhang, Ping},
+  journal={Communications of the ACM},
+  volume={51},
+  number={11},
+  pages={145-147},
+  year={2008},
+  publisher={ACM}
+}
+
+@inproceedings{korhonen2010personal,
+  title={Personal health systems-Opportunities and barriers for adoption},
+  author={Korhonen, Ilkka and Mattila, Elina M and vam Gils, Mark},
+  booktitle={2010 Annual International Conference of the IEEE Engineering in Medicine and Biology},
+  pages={5272-5272},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{epstein2015lived,
+  title={A lived informatics model of personal informatics},
+  author={Epstein, Daniel A and Ping, An and Fogarty, James and Munson, Sean A},
+  booktitle={Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing},
+  pages={731-742},
+  year={2015},
+  organization={ACM}
+}
+
+@article{oh2010defining,
+  title={Defining exergames \& exergaming},
+  author={Oh, Yoonsin and Yang, Stephen},
+  journal={Proceedings of Meaningful Play},
+  pages={1-17},
+  year={2010}
+}
+
+@article{mattila2008mobile,
+  title={Mobile diary for wellness management—results on usage and usability in two user studies},
+  author={Mattila, Elina and P{\"a}rkk{\"a}, Juha and Hermersdorf, Marion and Kaasinen, Jussi and Vainio, Janne and Samposalo, Kai and Merilahti, Juho and Kolari, Juha and Kulju, Minna and Lappalainen, Raimo and others},
+  journal={IEEE Transactions on information technology in biomedicine},
+  volume={12},
+  number={4},
+  pages={501-512},
+  year={2008},
+  publisher={IEEE}
+}
+
+@INPROCEEDINGS{poole:chh,
+	AUTHOR = "Erika Shehan Poole and Marshini Chetty and Tom Morgan and Rebecca E Grinter and W Keith Edwards",
+	TITLE = "Computer help at home: methods and motivations for informal technical support",
+	BOOKTITLE = "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+	PAGES = "739-748",
+	ORGANIZATION = "ACM",
+	MONTH = "April", 
+	YEAR = {2009}	}
+
+@ARTICLE{kiesler:twi,
+	AUTHOR = "Sara Kiesler and Bozena Zdaniuk and Vicki Lundmark and Robert Kraut",
+	TITLE = "Troubles with the Internet: The dynamics of help at home",
+	JOURNAL = "Human-Computer Interaction",
+	VOLUME = {15},
+	NUMBER = {4},
+	PAGES = {323-351},
+	MONTH = "December",
+	YEAR = {2000}	}
+
+@ARTICLE{ng:global,
+	AUTHOR = "Marie Ng and Tom Flemming and Margaret Robinson and Blake Thomson and Nicholas Graetz and Christopher Margono and  Erin C.Mullany and Stan Biryukov and Cristiana Abbafati and Semaw Ferede Abera",
+	TITLE = "Global, regional, and national prevalence of overweight and obesity in children and adults during 1980-2013: a systematic analysis for the Global Burden of Disease Study 2013",
+	JOURNAL = "The Lancet",
+	VOLUME = {384},
+	NUMBER = {9945},
+	PAGES = {766-781},
+	MONTH = "September",
+	YEAR = {2014}	}
+
+@ARTICLE{Oinas-kukkonen:psd,
+	AUTHOR = "Harri Oinas-Kukkonen and Marja Harjumaa",
+	TITLE = "Persuasive systems design: Key issues, process model, and system features",
+	JOURNAL = "Communications of the Association for Information Systems",
+	VOLUME = {24},
+	NUMBER = {1},
+	PAGES = {485–500},
+	MONTH = "March",
+	YEAR = {2009}	}
+@article{arteaga2010:persuasive,
+  title="Persuasive mobile exercise companion for teenagers with weight management issues",
+  author="Sonia Arteaga",
+  journal="ACM SIGACCESS Accessibility and Computing",
+  number="96",
+  pages="4-10",
+  year={2010},
+  publisher="ACM"
+}
+@ARTICLE{arsand:mobile,
+	AUTHOR = "Eirik {\AA}rsand  and Naoe Tatara and Gunnar Hartvigsen  and others",
+	TITLE = "Mobile phone-based self-management tools for type 2 diabetes: the few touch application",
+	JOURNAL = "Journal of diabetes science and technology",
+	VOLUME = {4},
+	NUMBER = {2},
+	PAGES = {328-336},
+	MONTH = "March",
+	YEAR = {2010}	}
+
+@ARTICLE{abegunde:theburden,
+	AUTHOR = "Dele O. Abegunde and Colin D. Mathers and Taghreed Adam and Monica Ortegon and Kathleen Strong",
+	TITLE = "The burden and costs of chronic diseases in low-income and middle-income countries",
+	JOURNAL = "The Lancet",
+	VOLUME = {370},
+	NUMBER = {960 Burton Baraga3},
+	PAGES = {1929-1938},
+	MONTH = "December",
+	YEAR = {2007}	}
+
+@ARTICLE{Oinas-Kukkonen:foundation,
+	AUTHOR = "Harri Oinas-Kukkonen",
+	TITLE = "A foundation for the study of behavior change support systems",
+	JOURNAL = "Personal and ubiquitous computing",
+	VOLUME = {17},
+	NUMBER = {6},
+	PAGES = {1223-1235},
+	MONTH = "August",
+	YEAR = {2013}	}
+
+
+@ARTICLE{parikh2006,
+	AUTHOR = "Parikh, JS and Ghosh, Kaushik",
+	TITLE = "Understanding and designing for intermediated information tasks in India",
+	JOURNAL = "Pervasive Computing, IEEE",
+	VOLUME = {5},
+	NUMBER = {2},
+	PAGES = {32-39},
+	MONTH = "April",
+	YEAR = {2006}	}
+
+@INPROCEEDINGS{sambasivan2010,
+	AUTHOR = "Nithya Sambasivan and Ed Cutrell and Kentaro Toyama and Bonnie Nardi",
+	TITLE = "Intermediated technology use in developing communities",
+	BOOKTITLE = "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+	PAGES = "2583-2592",
+	ORGANIZATION = "ACM",
+	MONTH = "April", 
+	YEAR = {2010}	}
+
+@INPROCEEDINGS{sukumaran2009intermediated,
+	AUTHOR = "Abhay Sukumaran and Satyan Ramlal and Eyal Ophir and Vangala RamNaresh Kumar and Gaurav Mishra and Vanessa Evers and  Venkataraman Balaji and Clifford Nass",
+	TITLE = "Intermediated technology interaction in rural contexts",
+	BOOKTITLE = "CHI'09 Extended Abstracts on Human Factors in Computing Systems",
+	PAGES = "3817-3822",
+	ORGANIZATION = "ACM",
+	MONTH = "April", 
+	YEAR = {2009}	}
+
+@ARTICLE{ferrplay2015,
+	AUTHOR = "Pedro Ferreira",
+	TITLE = "Why Play? Examining the Roles of Play in ICTD",
+	JOURNAL = "Aarhus Series on Human Centered Computing",
+	VOLUME = {1},
+	NUMBER = {1},
+	PAGES = {12},
+	MONTH = "October",
+	YEAR = {2015}	}
+
+@ARTICLE{kaplan2006can,
+	AUTHOR = "Warren A. Kaplan",
+	TITLE = "Can the ubiquitous power of mobile phones be used to improve health outcomes in developing countries?",
+	JOURNAL = "Globalization and health",
+	VOLUME = {2},
+	NUMBER = {1},
+	PAGES = {1},
+	MONTH = "May",
+	YEAR = {2006}	}
+
+@INPROCEEDINGS{hamari2013social,
+	AUTHOR = "Juho Hamari and Jonna Koivisto",
+	TITLE = "Social Motivations To Use Gamification: An Empirical Study Of Gamifying Exercise.",
+	BOOKTITLE = "ECIS",
+	PAGES = "105",
+	ORGANIZATION = "",
+	MONTH = "June", 
+	YEAR = {2013}	}
+
+@inproceedings{mekler2013points,
+  title={Do points, levels and leaderboards harm intrinsic motivation?: an empirical analysis of common gamification elements},
+  author={Mekler, Elisa D and Br{\"u}hlmann, Florian and Opwis, Klaus and Tuch, Alexandre N},
+  booktitle={Proceedings of the First International Conference on gameful design, research, and applications},
+  pages={66-73},
+  year={2013},
+  organization={ACM}
+}
+
+
+@INCOLLECTION{hamari2014persuasive,
+  AUTHOR="Juho Hamari and Jonna Koivisto and Tuomas Pakkanen",
+  TITLE="Do persuasive technologies persuade?-a review of empirical studies",
+  BOOKTITLE="Persuasive Technology",
+  PAGES={118-136},
+  MONTH = "May",
+  YEAR={2014},
+  PUBLISHER={Springer}
+}
+
+@article{mccallum2012gamification,
+  title={Gamification and serious games for personalized health},
+  author={McCallum, Simon},
+  journal={Stud Health Technol Inform},
+  volume={177},
+  pages={85-96},
+  year={2012}
+}
+
+
+@INPROCEEDINGS{hamari2014does,
+  TITLE="Does gamification work?-a literature review of empirical studies on gamification",
+  AUTHOR="Juho Hamari and Jonna Koivisto and Harri Sarsa",
+  BOOKTITLE="System Sciences (HICSS), 2014 47th Hawaii International Conference on",
+  PAGES={3025-3034},
+  ORGANIZATION={IEEE},
+  MONTH = "January",
+  YEAR={2014},
+
+}
+
+@INPROCEEDINGS{fogg1998persuasive,
+	AUTHOR = "Brian J. Fogg",
+	TITLE = "Persuasive computers: perspectives and research directions",
+	BOOKTITLE = "Proceedings of the SIGCHI conference on Human factors in computing systems",
+	PAGES = "225-232",
+	ORGANIZATION = "ACM Press/Addison-Wesley Publishing Co.",
+	MONTH = "January", 
+	YEAR = {1998}	}
+	
+	
+@article{fogg1999persuasive,
+  title={Persuasive technologies},
+  author={Fogg, Brian J},
+  journal={Communications of the ACM},
+  volume={42},
+  number={5},
+  pages={27-29},
+  year={1999},
+  publisher={Citeseer}
+}
+
+
+@INPROCEEDINGS{ramachandran2010research,
+	AUTHOR = "Divya Ramachandran and Vivek Goswami and John Canny",
+	TITLE = "Research and reality: using mobile messages to promote maternal health in rural India",
+	BOOKTITLE = "Proceedings of the 4th ACM/IEEE International Conference on Information and Communication Technologies and Development",
+	PAGES = "35",
+	ORGANIZATION = "ACM",
+	MONTH = "December", 
+	YEAR = {2010}	}
+
+@INPROCEEDINGS{ramachandran2010mobile,
+	AUTHOR = "Divya Ramachandran and John Canny and Prabhu Dutta Das and Edward Cutrell",
+	TITLE = "Mobile-izing health workers in rural India",
+	BOOKTITLE = "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+	PAGES = "1889-1898",
+	ORGANIZATION = "ACM",
+	MONTH = "April", 
+	YEAR = {2010}	}
+
+@INPROCEEDINGS{molapo2013software,
+	AUTHOR = "Maletsabisa Molapo and Gary Marsden",
+	TITLE = "Software support for creating digital health training materials in the field",
+	BOOKTITLE = "Proceedings of the Sixth International Conference on Information and Communication Technologies and Development: Full Papers-Volume 1",
+	PAGES = "205-214",
+	ORGANIZATION = "ACM",
+	MONTH = "December", 
+	YEAR = {2013}	}
+
+@ARTICLE{ali2009factors,
+	AUTHOR = "Aus Tariq Ali and Nigel J. Crowther",
+	TITLE = "Factors predisposing to obesity: a review of the literature",
+	JOURNAL = "Journal of Endocrinology, Metabolism and Diabetes of South Africa",
+	VOLUME = {14},
+	NUMBER = {2},
+	PAGES = {},
+	MONTH = "",
+	YEAR = {2009}	}
+
+@ARTICLE{guh2009incidence,
+	AUTHOR = "Daphne P. Guh and Wei Zhang and Nick Bansback and zubin Amarsi and C Laird Birmingham and Aslam H. Anis",
+	TITLE = "The incidence of co-morbidities related to obesity and overweight: a systematic review and meta-analysis",
+	JOURNAL = "BMC public health",
+	VOLUME = {9},
+	NUMBER = {1},
+	PAGES = {1},
+	MONTH = "March",
+	YEAR = {2009}	}
+
+@ARTICLE{cole2010text,
+	AUTHOR = "Heather Cole-Lewis and Trace Kershaw",
+	TITLE = "Text messaging as a tool for behavior change in disease prevention and management",
+	JOURNAL = "Epidemiologic reviews",
+	VOLUME = {9},
+	NUMBER = {1},
+	PAGES = {mxq004},
+	MONTH = "",
+	YEAR = {2010}	}
+
+
+@INPROCEEDINGS{hsu2014persuasive,
+	AUTHOR = "Anne Hsu and Jing Yang and Yigit Han Yilmaz and Md Sanaul Haque and Cengiz Can and  Ann E. Blandford",
+	TITLE = "Persuasive technology for overcoming food cravings and improving snack choices",
+	BOOKTITLE = "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+	PAGES = "3403-3412",
+	ORGANIZATION = "ACM",
+	MONTH = "April", 
+	YEAR = {2014}	}
+
+
+@INPROCEEDINGS{langrial2012digital,
+	AUTHOR = "Sitwat Langrial",
+	TITLE = "From Digital Interventions to Behavior Change Support Systems: Understanding Persuasive Systems' Development and Evaluation Process",
+	BOOKTITLE = "Proceedings of IRIS",
+	PAGES = "1-16",
+	ORGANIZATION = "",
+	MONTH = "", 
+	YEAR = {2012}	}
+
+
+@INPROCEEDINGS{ramirez2013infomediaries,
+	AUTHOR = "Ricardo Ram{\'\i}rez and Balaji Parthasarathy and Andrew Gordon",
+	TITLE = "From infomediaries to infomediation at public access venues: Lessons from a 3-country study",
+	BOOKTITLE = "Proceedings of the Sixth International Conference on Information and Communication Technologies and Development: Full Papers-Volume 1",
+	PAGES = "124-132",
+	ORGANIZATION = "ACM",
+	MONTH = "December", 
+	YEAR = {2013}	}
+	
+@article{comber2013designing,
+  title={Designing beyond habit: opening space for improved recycling and food waste behaviors through processes of persuasion, social influence and aversive affect},
+  author={Comber, Rob and Thieme, Anja},
+  journal={Personal and ubiquitous computing},
+  volume={17},
+  number={6},
+  pages={1197-1210},
+  year={2013},
+  publisher={Springer}
+}
+
+
+@INBOOK{ foggpersuasivebook,
+AUTHOR    = "Brian J. Fogg", 
+EDITOR    = {},
+TITLE     = "Persuasive Technology: Using Computers to Change What We Think and Do.",
+CHAPTER   = {5},
+PAGES     = {89-120},
+PUBLISHER = "Morgan Kaufmann",
+YEAR      = {2003},
+Volume    = {},
+Series    = {},
+Address   = {},
+Edition   = {},
+Month     = {},
+Note      = {},
+Key       = {}
+}
+
+
+
+@ARTICLE{strecher1995goal,
+	AUTHOR = "Victor J. Strecher and Gerard H. Seijts and Gerjo J. Kok and Gary P. Latham and Russell Glasgow and Brenda DeVellis and Ree M. Meertens and David W. Bulger",
+	TITLE = "Goal setting as a strategy for health behavior change",
+	JOURNAL = {Health Education \& Behavior},
+	VOLUME = {22},
+	NUMBER = {2},
+	PAGES = {190-200},
+	MONTH = "July",
+	YEAR = {1995}	}
+
+@INPROCEEDINGS{deterding2011game,
+	AUTHOR = "Sebastian Deterding and Dan Dixon and Rilla Khaled and Lennart Nacke",
+	TITLE = "From game design elements to gamefulness: defining gamification",
+	BOOKTITLE = "Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments",
+	PAGES = "9-15",
+	ORGANIZATION = "ACM",
+	MONTH = "September", 
+	YEAR = {2011}	}
+	
+@ARTICLE{ryan2006:motivationalpull,
+  TITLE="The motivational pull of video games: A self-determination theory approach",
+  AUTHOR="Richard M Ryan and C Scott Rigby and Andrew Przybylski",
+  JOURNAL="Motivation and emotion",
+  VOLUME={30},
+  NUMBER={4},
+  PAGES="344-360",
+  YEAR={2006},
+  PUBLISHER={Springer}
+}
+
+
+@article{swinburn2004diet,
+  title={Diet, nutrition and the prevention of excess weight gain and obesity},
+  author={Swinburn, Boyd A and Caterson, Ian and Seidell, Jaap C and James, WPT},
+  journal={Public health nutrition},
+  volume={7},
+  number={1a},
+  pages={123-146},
+  year={2004},
+  publisher={Cambridge Univ Press}
+}
+
+
+@ARTICLE{dinsa2012obesity,
+	AUTHOR = "G D Dinsa and Y Goryakin and E Fumagalli and M Suhrcke",
+	TITLE = "Obesity and socioeconomic status in developing countries: a systematic review",
+	JOURNAL = "Obesity reviews",
+	VOLUME = {13},
+	NUMBER = {11},
+	PAGES = {1067-1079},
+	MONTH = "November",
+	YEAR = {2012}	}
+
+
+@article{comber2013designing,
+  title={Designing beyond habit: opening space for improved recycling and food waste behaviors through processes of persuasion, social influence and aversive affect},
+  author={Comber, Rob and Thieme, Anja},
+  journal={Personal and ubiquitous computing},
+  volume={17},
+  number={6},
+  pages={1197-1210},
+  year={2013},
+  publisher={Springer}
+}
+
+
+@ARTICLE{chatterjee2009healthy,
+	AUTHOR = "Samir Chatterjee and Alan Price",
+	TITLE = "Healthy living with persuasive technologies: framework, issues, and challenges",
+	JOURNAL = "Journal of the American Medical Informatics Association",
+	VOLUME = {16},
+	NUMBER = {2},
+	PAGES = {171-178},
+	MONTH = "March",
+	YEAR = {2009}	
+}
+
+@techreport{Steyn2006,
+	author = "K Steyn and J Fourie and N Temple",
+	title = "Chronic Diseases of Lifestyle in South Africa: 1995-2005",
+	year = {2006},
+	institution = "Cape Town: South African Medical Research Council",
+	pages = {33-47}
+}
+@inproceedings{Molapo2015,
+ author = {Molapo, Maletsabisa and Densmore, Melissa},
+ title = {How to Choose a Mobile Phone for an ICT4D Project},
+ booktitle = {Proceedings of the Seventh International Conference on Information and Communication Technologies and Development},
+ series = {ICTD '15},
+ year = {2015},
+ isbn = {978-1-4503-3163-0},
+ location = {Singapore, Singapore},
+ pages = {48:1-48:4},
+ articleno = {48},medynskiy2010salud
+ numpages = {4},
+ url = {http://doi.acm.org/10.1145/2737856.2737897},
+ doi = {10.1145/2737856.2737897},
+ acmid = {2737897},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {device selection, feature phone, mobile phone, smartphone},
+} 
+
+
+@inproceedings{Schwartz2013,
+ author = {Schwartz, Ariel and Bhavsar, Mohini and Cutrell, Edward and Donner, Jonathan and Densmore, Melissa},
+ title = {Balancing Burden and Benefit: Non-prescribed Use of Employer-issued Mobile Devices},
+ booktitle = {Proceedings of the Sixth International Conference on Information and Communications Technologies and Development: Notes - Volume 2},
+ series = {ICTD '13},
+ year = {2013},
+ isbn = {978-1-4503-1907-2},
+ location = {Cape Town, South Africa},
+ pages = {140-143},
+ numpages = {4},
+ url = {http://doi.acm.org/10.1145/2517899.2517911},
+ doi = {10.1145/2517899.2517911},
+ acmid = {2517911},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {ICT4D, development, enforcement, health, mobile device, negotiation, non-prescribed use, organizations, power, social sector},
+} 
+
+@inproceedings{medynskiy2010salud,
+  title="Salud!: An open infrastructure for developing and deploying health self-management applications",
+  author="Yevgeniy Medynskiy and Elizabeth Mynatt",
+  booktitle="Pervasive Computing Technologies for Healthcare (PervasiveHealth), 2010 4th International Conference on",
+  pages="1-8",
+  year={2010},
+  month="March",
+  organization="IEEE"
+}
+
+@article{koivisto2014demographic,
+  title="Demographic differences in perceived benefits from gamification",
+  author="Jonna Koivisto and Juho Hamari",
+  journal={Computers in Human Behavior},
+  volume="35",
+  pages="179-188",
+  month="June",
+  year={2014},
+}
+
+@article{v2014motivational,
+  title={Motivational effects and age differences of gamification in product advertising},
+  author={Jenny V. Bittner and Jeffrey Shipper},
+  journal={Journal of consumer marketing},
+  volume={31},
+  number={5},
+  pages={391-400},
+  year={2014},
+  month="August",
+  publisher={Emerald Group Publishing Limited}
+}
+
+@article{csikszentmihalyiflow,
+  title={A review of \emph{a book (Flow: Psychology of Optimal Experience.)} by {Mihalyi Csikszentmihalyi} },
+  author="Dev Kumar Bose",
+  journal="Information Design Journal",
+  number="16",
+  volume="1",
+  pages="76-83",
+  year="2008"
+  
+}
+
+@inproceedings{katule2016leveraging,
+  title={Leveraging Intermediated Interactions to Support Utilization of Persuasive Personal Health Informatics},
+  author={Katule, Ntwa and Densmore, Melissa and Rivett, Ulrike},
+  booktitle={Proceedings of the Eighth International Conference on Information and Communication Technologies and Development},
+  pages={19},
+  year={2016},
+  organization={ACM}
+}
+
+@inproceedings{katule2016family,
+  title={A Family Health App: Engaging Children to Manage Wellness of Adults},
+  author="Ntwa Katule and Ulrike Rivett and Melissa Densmore",
+  booktitle="Proceedings of the 7th Annual Symposium on Computing for Development",
+  pages={7},
+  year="2016",
+  organization="ACM"
+}

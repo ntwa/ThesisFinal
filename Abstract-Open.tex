@@ -1,0 +1,151 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Masters/Doctoral Thesis 
+% LaTeX Template
+% Version 1.43 (17/5/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original authors:
+% Steven Gunn 
+% http://users.ecs.soton.ac.uk/srg/softwaretools/document/templates/
+% and
+% Sunil Patel
+% http://www.sunilpatel.co.uk/thesis-template/
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Note:
+% Make sure to edit document variables in the Thesis.cls file
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt, oneside]{Thesis} % The default font size and one-sided printing (no margin offsets)
+
+\graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
+%\usepackage{apacite}
+\usepackage[comma, sort&compress]{natbib} % Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
+\usepackage{csquotes}
+\usepackage{ctable}
+\usepackage[english]{babel}
+\usepackage{caption}
+\captionsetup[table]{labelsep=space}
+\captionsetup[figure]{labelsep=space}
+%\usepackage{booktabs}
+%\usepackage{array}
+\usepackage{amsmath,array}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}m{#1}}
+%\usepackage{apacite}
+\usepackage{multirow}
+\usepackage{fixltx2e}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{bibentry}
+\usepackage{pdfpages}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{lipsum}
+\mdfdefinestyle{MyFrame}{%
+    linecolor=black,
+    outerlinewidth=2pt,
+    roundcorner=2pt,
+    innertopmargin=\baselineskip,
+    innerbottommargin=\baselineskip,
+    innerrightmargin=20pt,
+    innerleftmargin=20pt,
+    backgroundcolor=gray!50!white}
+\def\SPSB#1#2{\rlap{\textsuperscript{\textcolor{red}{#1}}}\SB{#2}}
+\def\SP#1{\textsuperscript{\textcolor{black}{#1}}}
+\def\SB#1{\textsubscript{\textcolor{black}{#1}}}
+\newenvironment{myquote}
+               {\list{}{\rightmargin   \leftmargin
+                         \itemsep	-1ex
+                         \parsep	0in 
+                         \parskip	0in
+                         \topsep	0pt
+                         %\partopsep 1ex
+                         %,itemsep=-1ex,partopsep=1ex
+                        }%  
+                
+                \item \relax}
+               {\endlist}
+%\newcommand{\userquote}[2]{\begin{samepage}\begin{myquote} 
+%     \em{\small{#2\begin{flushright}---#1\end{flushright}}}
+%   \end{myquote}
+%   \end{samepage}}
+   
+   \newcommand{\userquote}[2]{\begin{samepage}\begin{myquote} 
+     \em{\small{#2\begin{flushright}---#1\end{flushright}}}
+   \end{myquote}
+     \end{samepage}}
+\newcolumntype{x}[1]
+            {>{\raggedright}p{#1}}
+
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\newcommand{\tn}{\tabularnewline}
+
+\hypersetup{urlcolor=blue, colorlinks=true} % Colors hyperlinks in blue - change to black if annoying
+\title{\ttitle} % Defines the thesis title - don't touch this
+
+\begin{document}
+\bibpunct[, ]{(}{)}{;}{a}{,}{,} 
+\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+
+\setstretch{1.3} % Line spacing of 1.3
+
+% Define the page headers using the FancyHdr package and set up for one-sided printing
+\fancyhead{} % Clears all page headers and footers
+\rhead{\thepage} % Sets the right side header to show the page number
+\lhead{} % Clears the left side page header
+
+\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % New command to make the lines in the title page
+
+% PDF meta-data
+\hypersetup{pdftitle={\ttitle}}
+\hypersetup{pdfsubject=\subjectname}
+\hypersetup{pdfauthor=\authornames}
+\hypersetup{pdfkeywords=\keywordnames}
+
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+\clearpage % Start a new page
+
+\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+%\lhead{\emph{Abstract}} % Set the left side page header to
+\addtotoc{Abstract} % Add the "Abstract" page entry to the Contents
+
+\abstract{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+\begin{flushleft}{\huge{\textbf{Abstract}} \par}\end{flushleft}
+There is an increasing prevalence of chronic diseases that are associated with unhealthy lifestyles in both developed and developing world contexts. In order to help combat this unfavourable trend, public health researchers are advocating shifting care to the hands of citizens through utilization of personalized interventions. The objective of these initiatives is to support individuals beyond the point of care. ICTs, specifically mobile phones coupled with sophisticated persuasive mechanisms such as gamification or simple strategies such as SMS reminders, provide an ideal platform for delivery of personalized interventions that target health behaviour change.~In order to support delivery of such personalized interventions, researchers in human-computer interaction have developed an area of research referred to as personal informatics, which focuses on data collection and feedback mechanisms.~These approaches aim to support individuals to be able to quantify different aspects of their lives through self-reflection.~These systems have been developed with motivational affordances to sustain their utilization by end users.~However, such systems are developed with only one user in mind: a direct user of technology.~Such systems may not scale well in contexts involving indirect users of technology, meaning people who use technology through the facilitation of a human interface (intermediary user) situated between indirect users (beneficiaries of technology) and technology.~Therefore, there was a need to explore how motivational affordances of personal health informatics could be extended to work when an interaction requires a collaboration that leads to indirect usage, i.e.~a collaboration between the person helping and the person being helped.
+
+In order to understand design implications for indirect technology use in the context of personal health informatics, the study used several approaches to understand the social dynamics that could affect utilization of technology through a human interface between indirect users and technology.~The researcher developed prototypes of mobile self-monitoring applications for diet and physical activity and used them as the starting point for uncovering unknown issues in intermediated technology use. After evaluating these prototypes, the researcher suggested both social-technical arrangements and prerequisites that increase the likelihood of success in utilization of such interventions. 
+}
+%----------------------------------------------------------------------------------------
+%	ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+\clearpage % Start a new page
+
+\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+%\lhead{\emph{Abstract}} % Set the left side page header to
+%\addtotoc{Abstract} % Add the "Abstract" page entry to the Contents
+
+\abstract{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+One of the most important aspects of social-technical arrangement was a prior social relationship between a human interface and a beneficiary of technology through a human interface. Self-determination theory was used to understand how motivation for collaboration between users in a pair (the human interface and beneficiary user of technology) could be enhanced. Gamification, a design pattern inspired by games, was found to be the source of a significant increase in perceived competence, an aspect of self-determination theory. Therefore, gamification was found to be a catalyst for increasing collaboration between a human interface and beneficiary user of technology, provided that the two users that formed a pair had a prior social relationship. The collaborative gamified system showed promising results for the utilization of personal health informatics in the context of indirect usage. The most promising combination of a human interface and beneficiary user is the one that comprises family members, possibly a child and a parent.
+
+Despite the success of gamification in increasing perceived competence of the human interface, and hence collaboration between a human interface and beneficiary user, there are some design implications that need to be taken into consideration in order to understand how internalization of collaboration between two members of a pair working together could be improved. This entails future exploration of features that support task-mastery climate versus those that support ego-involved. Future research could also explore how different styles of parenting could affect the way the intervention is perceived by the two sets of users.
+}
+
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics\textbf{}
+
+\end{document}  
